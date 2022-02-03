@@ -1,0 +1,22 @@
+.flex 
+{
+	display: flex;
+	justify-content: space-around;
+}
+
+.flex div 
+{
+	border: 2mm ridge rgb(135,206,235);
+	padding: 10px;
+}
+
+.releve
+{
+		color: #054B61;
+}	
+
+img 
+{
+	width: 15px;
+	height: 15px;
+}
